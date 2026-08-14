@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">James Peter — Product-minded software engineer</title>
+  <desc id="desc">Light professional banner highlighting business systems, offline-first applications, and AI automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eefbf4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#dce9e2" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)" opacity="0.65"/>
+  <rect x="58" y="58" width="10" height="204" rx="5" fill="#168a52"/>
+  <circle cx="1080" cy="74" r="112" fill="#d9f7e7" opacity="0.85"/>
+  <circle cx="1110" cy="42" r="58" fill="#a9e9c8" opacity="0.7"/>
+  <text x="98" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#14251c">James Peter</text>
+  <text x="100" y="175" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600" fill="#168a52">Product-minded software engineer</text>
+  <text x="100" y="225" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#40564a">Business systems  •  Offline-first apps  •  AI automation</text>
+</svg>
