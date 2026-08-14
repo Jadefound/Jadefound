@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">James Peter — Product-minded software engineer</title>
-  <desc id="desc">Light professional banner highlighting business systems, offline-first applications, and AI automation.</desc>
+  <title id="title">James Peter — Full-stack product engineer</title>
+  <desc id="desc">Professional light banner highlighting business platforms, AI and data systems, and offline-first products.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffffff"/>
@@ -16,6 +16,6 @@
   <circle cx="1080" cy="74" r="112" fill="#d9f7e7" opacity="0.85"/>
   <circle cx="1110" cy="42" r="58" fill="#a9e9c8" opacity="0.7"/>
   <text x="98" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#14251c">James Peter</text>
-  <text x="100" y="175" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600" fill="#168a52">Product-minded software engineer</text>
-  <text x="100" y="225" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#40564a">Business systems  •  Offline-first apps  •  AI automation</text>
+  <text x="100" y="175" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600" fill="#168a52">Full-stack product engineer</text>
+  <text x="100" y="225" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#40564a">Business platforms  •  AI &amp; data systems  •  Offline-first products</text>
 </svg>
